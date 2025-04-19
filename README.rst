@@ -50,7 +50,7 @@ Alternatively, install dependencies system-wide using apt:
 
 .. code:: bash
 
-    $ sudo apt install python3-matplotlib python3-psutil python3-click
+    $ sudo apt install python3-matplotlib python3-psutil python3-click python-is-python3
 
 
 Examples
